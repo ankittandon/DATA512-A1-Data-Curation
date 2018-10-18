@@ -1,3 +1,5 @@
+<b>Ankit Tandon - Assignment 1: Data Curation</b>
+
 The goal of this project is to "construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 to September 30 2018". Through the process of creating this dataset and perfomring the analysis, we will learn the best practices for data curation with the ultimate object being providing reproducible analysis and research.
 
 The source data and sample code is from the Wikimedia Foundation and is licensed CC0.
